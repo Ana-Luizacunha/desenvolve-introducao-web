@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notícia do Dia</title>
+</head>
+<body>
+  <header>
+    <img src="https://picsum.photos/50" alt="Logo" />
+    <h1>Meu Portal de Notícias</h1>
+  </header>
+
+  <main>
+    <article>
+      <h2>Tensão no Oriente Médio</h2>
+      <h3>Israel anuncia ataque ao Irã em meio a escalada de conflitos</h3>
+
+      <p>
+        Em um movimento <strong>sem precedentes</strong>, o governo de <strong>Israel</strong> confirmou na madrugada desta sexta-feira (19) que realizou um ataque aéreo contra o <em>Irã</em>. A ação é vista como uma <mark>resposta direta</mark> ao ataque iraniano feito no último sábado.
+      </p>
+
+      <p>
+        Segundo fontes internacionais, o alvo teria sido uma base militar iraniana. Moradores relataram ter ouvido <em>explosões</em> na região de Isfahan, cidade que abriga instalações nucleares. O governo iraniano afirmou que o ataque foi <strong>frustrado</strong> por seus sistemas de defesa.
+      </p>
+
+      <p>
+        A <u>Organização das Nações Unidas</u> pediu <em>moderação</em> de ambas as partes, temendo que o confronto se amplie e envolva outros países do Oriente Médio. <br>
+        "Estamos acompanhando com <strong>preocupação</strong> a escalada da violência", disse um porta-voz.
+      </p>
+
+      <p>
+        A comunidade internacional teme um <strong>conflito regional de grandes proporções</strong>. <small>Fontes diplomáticas</small> informam que reuniões emergenciais foram convocadas por países da União Europeia, enquanto os Estados Unidos monitoram a situação.
+      </p>
+
+      <p><em>Fonte: G1 - globo.com</em></p>
+    </article>
+  </main>
+
+  <footer>
+    <ul>
+      <li><a href="https://www.facebook.com">Facebook</a></li>
+      <li><a href="https://www.instagram.com">Instagram</a></li>
+      <li><a href="https://www.twitter.com">Twitter</a></li>
+    </ul>
+  </footer>
+</body>
+</html>
