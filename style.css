@@ -1,0 +1,32 @@
+/* Estilo para links */
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lemonchiffon;
+}
+
+/* Parágrafos com fonte Arial */
+p {
+  font-family: Arial, sans-serif;
+}
+
+/* Parágrafo logo após h1 em negrito */
+h1 + p {
+  font-weight: bold;
+}
+
+/* Classe destaque */
+.destaque {
+  font-family: Arial, sans-serif;
+}
+
+p.destaque {
+  font-weight: bold;
+}
+
+strong.destaque {
+  color: red;
+}
