@@ -1,0 +1,10 @@
+css-zen-garden/
+├── index.html
+└── style2.css
+
+git init
+git add .
+git commit -m "Projeto CSS Zen Garden com minha paleta"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/css-zen-garden.git
+git push -u origin main
