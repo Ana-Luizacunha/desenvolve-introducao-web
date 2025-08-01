@@ -1,0 +1,34 @@
+/* Links padrão */
+a {
+  color: #007bff; /* Cor de destaque */
+  font-weight: bold; /* Negrito */
+  text-decoration: none; /* Remover sublinhado */
+}
+
+/* Links ao passar o mouse */
+a:hover {
+  color: #0056b3; /* Cor alterada ao passar o mouse */
+}
+
+/* Links visitados */
+a:visited {
+  font-weight: normal; /* Remover negrito de links visitados */
+}
+/* Selecionando a primeira letra do primeiro parágrafo */
+section p:first-of-type::first-letter {
+  font-size: 3em; /* 3 vezes maior que o padrão */
+  font-family: 'Times New Roman', serif; /* Fonte diferente */
+  float: left; /* Ficar flutuando à esquerda */
+  margin-right: 5px; /* Para dar um espaçamento à direita da letra */
+}
+/* Borda superior em todos os itens de menu */
+nav ul li {
+  border-top: 2px solid #ccc; /* Borda superior */
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* Borda inferior apenas no último item */
+nav ul li:last-child {
+  border-bottom: 2px solid #ccc; /* Borda inferior */
+}
