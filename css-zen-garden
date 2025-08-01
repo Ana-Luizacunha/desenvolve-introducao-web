@@ -57,3 +57,14 @@ css-zen-garden/
 </div>
 </body>
 </html>
+
+/* Color Theme Swatches in Hex */
+.principal { color: #B500DB; }
+.background { color: #E6128F; }
+.cor-do-meu-projeto-3-hex { color: #D037FA; }
+.cor-do-meu-projeto-4-hex { color: #F582A9; }
+.cor-do-meu-projeto-5-hex { color: #B77EDB; }
+
+html { background: #E6128F;
+color:  #B500DB;
+}
